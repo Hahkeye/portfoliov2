@@ -5,7 +5,7 @@ import { Card} from 'evergreen-ui';
 
 const Work = () => {
     return (
-        <Card flex="1">
+        <Card flex="row">
             {/* {console.log(stuff)} */}
             {stuff.map((item,index) =>{
 

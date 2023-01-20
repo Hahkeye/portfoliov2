@@ -1,7 +1,7 @@
 const stuff = [
     {
         title: "Scamazon",
-        desc: "Ecomerce template site used for furerthing react knowledge",
+        desc: "Ecomerce template site used for furthing react knowledge and practicing good concepts.",
         img: "project1.png",
         link: "https://github.com/Hahkeye/scamazon"
     },
@@ -14,7 +14,6 @@ const stuff = [
     {
         title: "Syntaxr Fleet",
         desc: "A package of python tools to help you mange multiple 3D printers from one main station.",
-        img: "project3.png",
         link: "https://github.com/Hahkeye/Syntaxr-Fleet"
     },
     {
