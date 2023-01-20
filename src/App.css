@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  
+}
+html{
+  background-color: #91B187;
 }
 
 .App-logo {
@@ -35,4 +39,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+.head{
+  background-color: #E7A339;
+}
+.feet {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background-color: #E7A339;
+}
+.Tab a{
+  color: red;
 }
